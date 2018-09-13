@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	/*border: 1px solid #ccc;*/
+}
+.cal1{
+    width: 31%;
+}
+button{
+	border: 1px solid #ccc;
+    width: 21%;
+    padding: 15px;
+    margin-right: -7px;
+}
+.zero{
+	width: 42%;
+}
+input{
+	background-color: #333;
+    padding: 65px 0px 21px 3px;
+    color: white;
+    width: 25%;
+    font-size: 67px
+}
+.orange{
+	background-color: orange;
+}
